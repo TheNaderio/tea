@@ -224,6 +224,7 @@ General setup
 -------------
 
 -  Open :guilabel:`File > Settings > PHP > Test Frameworks`.
+-  Add `PHPUnit Local`
 -  (*) Use Composer autoloader.
 -  Path to script: select `.Build/vendor/autoload.php` in your project folder.
 
